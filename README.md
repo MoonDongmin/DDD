@@ -9,3 +9,5 @@
 [Chapter 03. 도메인 복잡성 관리](https://moondongmin.notion.site/Chapter-03-1b4357c44e5680939346cfcdc3707123?pvs=4)
 
 [Chapter 04. 바운디드 컨텍스트 연동](https://moondongmin.notion.site/Chapter-04-1b5357c44e5680a785f5d4a7cbc28ac8?pvs=4)
+
+[Chapter 05. 간단한 비즈니스 로직 구현](https://moondongmin.notion.site/Chapter-05-1b5357c44e5680b3af13f23ad61b5c6e?pvs=4)
