@@ -19,3 +19,5 @@
 [Chapter 06. 복잡한 비즈니스 로직 다루기](https://moondongmin.notion.site/Chapter-06-1bb357c44e56809baf11eed788eeba3f?pvs=4)
 
 [Chapter 07. 시간 차원의 모델링](https://moondongmin.notion.site/Chapter-07-1bb357c44e568099beb7caa40dd98f0a?pvs=4)
+
+[Chapter 08. 아키텍처 패턴](https://moondongmin.notion.site/Chapter-08-1c1357c44e5680698aded127ff5e1976?pvs=4)
