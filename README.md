@@ -1,6 +1,6 @@
 # DDD
 
-도메인 주도 설계
+![img.png](img.png)
 
 ## Part 1. 전략적 설계
 
