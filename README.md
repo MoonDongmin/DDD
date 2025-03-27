@@ -21,3 +21,5 @@
 [Chapter 07. 시간 차원의 모델링](https://moondongmin.notion.site/Chapter-07-1bb357c44e568099beb7caa40dd98f0a?pvs=4)
 
 [Chapter 08. 아키텍처 패턴](https://moondongmin.notion.site/Chapter-08-1c1357c44e5680698aded127ff5e1976?pvs=4)
+
+[Chapter 09. 커뮤니케이션 패턴](https://moondongmin.notion.site/Chapter-09-1c1357c44e568018a301c523aa7dd4fd?pvs=4)
