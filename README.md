@@ -26,3 +26,5 @@
 
 ## Part 3. 도메인 주도 설계 적용 실무
 [Chapter 10. 휴리스틱 설계](https://moondongmin.notion.site/Chapter-10-1c8357c44e568089bff1e400d338d4da?pvs=4)
+
+[Chapter 11. 진화하는 설계 의사결정](https://moondongmin.notion.site/Chapter-11-1c9357c44e568047a843d0f07cbd0359?pvs=4)
