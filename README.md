@@ -30,3 +30,5 @@
 [Chapter 11. 진화하는 설계 의사결정](https://moondongmin.notion.site/Chapter-11-1c9357c44e568047a843d0f07cbd0359?pvs=4)
 
 [Chapter 12. 이벤트스토밍](https://moondongmin.notion.site/Chapter-12-1d0357c44e56809ab310d1c5076f113c?pvs=4)
+
+[Chapter 13. 실무에서의 도메인 주도 설계](https://moondongmin.notion.site/Chapter-13-1d0357c44e56808695f1ce555e09ff7f?pvs=4)
