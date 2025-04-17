@@ -32,3 +32,5 @@
 [Chapter 12. 이벤트스토밍](https://moondongmin.notion.site/Chapter-12-1d0357c44e56809ab310d1c5076f113c?pvs=4)
 
 [Chapter 13. 실무에서의 도메인 주도 설계](https://moondongmin.notion.site/Chapter-13-1d0357c44e56808695f1ce555e09ff7f?pvs=4)
+
+[Chapter 16. 데이터 메시](https://moondongmin.notion.site/Chapter-16-1d6357c44e5680eca10dd7043277a2e8?pvs=4)
