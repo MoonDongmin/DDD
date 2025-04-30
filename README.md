@@ -2,6 +2,8 @@
 # "도메인 주도 설계"
 [Chapter 01. 지식 탐구](https://moondongmin.notion.site/Chapter-01-1e4357c44e5680bf95e9ed42e975114a?pvs=4)
 
+[Chapter 02. 의사소통과 언어 사용](https://moondongmin.notion.site/Chapter-02-1e5357c44e5680f38695f5de9156f95f?pvs=4)
+
 # "도메인 주도 설계 첫걸음"
 
 ![img.png](img.png)
