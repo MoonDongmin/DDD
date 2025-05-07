@@ -4,6 +4,8 @@
 
 [Chapter 02. 의사소통과 언어 사용](https://moondongmin.notion.site/Chapter-02-1e5357c44e5680f38695f5de9156f95f?pvs=4)
 
+[Chapter 03. 모델과 구현의 연계](https://moondongmin.notion.site/Chapter-03-1ec357c44e5680029d31dc7c4d529005?pvs=4)
+
 # "도메인 주도 설계 첫걸음"
 
 ![img.png](img.png)
@@ -12,7 +14,7 @@
 
 [Chapter 01. 비즈니스 도메인 분석하기](https://moondongmin.notion.site/Chapter-01-1ac357c44e5680b88f01e09c074e66aa?pvs=4)
 
-[Chapter 02. 도메인 자식 찾아내기](https://moondongmin.notion.site/Chapter-02-1ad357c44e56805d968fcf4325d411cd?pvs=4)
+[Chapter 02. 도메인 지식 찾아내기](https://moondongmin.notion.site/Chapter-02-1ad357c44e56805d968fcf4325d411cd?pvs=4)
 
 [Chapter 03. 도메인 복잡성 관리](https://moondongmin.notion.site/Chapter-03-1b4357c44e5680939346cfcdc3707123?pvs=4)
 
