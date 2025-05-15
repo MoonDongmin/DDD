@@ -6,6 +6,8 @@
 
 [Chapter 03. 모델과 구현의 연계](https://moondongmin.notion.site/Chapter-03-1ec357c44e5680029d31dc7c4d529005?pvs=4)
 
+[Chapter 04. 도메인의 격리](https://moondongmin.notion.site/Chapter-04-1f3357c44e5680fc90b5c4636fa53167?pvs=4)
+
 # "도메인 주도 설계 첫걸음"
 
 ![img.png](img.png)
