@@ -8,6 +8,8 @@
 
 [Chapter 04. 도메인의 격리](https://moondongmin.notion.site/Chapter-04-1f3357c44e5680fc90b5c4636fa53167?pvs=4)
 
+[Chapter 05. 소프트웨어에서 표현되는 모델](https://moondongmin.notion.site/Chapter-05-1f9357c44e5680fcb39bd49e3636441d?pvs=4)
+
 # "도메인 주도 설계 첫걸음"
 
 ![img.png](img.png)
