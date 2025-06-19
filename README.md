@@ -11,6 +11,10 @@
 [Chapter 05. 소프트웨어에서 표현되는 모델](https://moondongmin.notion.site/Chapter-05-1f9357c44e5680fcb39bd49e3636441d?pvs=4)
 
 [Chapter 06. 도메인 객체의 생명주기](https://moondongmin.notion.site/Chapter-06-214357c44e5680ea8b23c40f64245fec?source=copy_link)
+
+[Chapter 07. 언어의 사용(확장 예제)](https://moondongmin.notion.site/Chapter-07-215357c44e5680af8002c030ebcab69e?source=copy_link)
+
+
 # "도메인 주도 설계 첫걸음"
 
 ![img.png](img.png)
