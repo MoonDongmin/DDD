@@ -14,6 +14,10 @@
 
 [Chapter 07. 언어의 사용(확장 예제)](https://moondongmin.notion.site/Chapter-07-215357c44e5680af8002c030ebcab69e?source=copy_link)
 
+[Chapter 08. 도약](https://moondongmin.notion.site/Chapter-08-21c357c44e5680f7b2c8f6f36e1eb642?source=copy_link)
+
+[Chapter 09. 암시적인 개념을 명확하게](https://moondongmin.notion.site/Chapter-09-223357c44e56804e8c93df10a49dafe8?source=copy_link)
+
 
 # "도메인 주도 설계 첫걸음"
 
