@@ -20,6 +20,8 @@
 
 [Chapter 10. 유연한 설계](https://moondongmin.notion.site/Chapter-10-22b357c44e5680b3bc0aceb7794a0d30?source=copy_link)
 
+[Chapter 11. 분석 패턴의 적용](https://moondongmin.notion.site/Chapter-11-23a357c44e5680e3869ae98795e42016?source=copy_link)
+
 
 # "도메인 주도 설계 첫걸음"
 
