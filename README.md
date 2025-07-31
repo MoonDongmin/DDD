@@ -24,6 +24,8 @@
 
 [Chapter 12. 모델과 디자인 패턴의 연결](https://moondongmin.notion.site/Chapter-12-240357c44e5680dfad22d41a5e0bc91a?source=copy_link)
 
+[Chapter 13. 더 심층적인 통찰력을 향한 리팩터링](https://moondongmin.notion.site/Chapter-13-241357c44e5680bbbdc0c05a1e8c592c?source=copy_link)
+
 
 # "도메인 주도 설계 첫걸음"
 
