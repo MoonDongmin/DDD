@@ -22,6 +22,8 @@
 
 [Chapter 11. 분석 패턴의 적용](https://moondongmin.notion.site/Chapter-11-23a357c44e5680e3869ae98795e42016?source=copy_link)
 
+[Chapter 12. 모델과 디자인 패턴의 연결](https://moondongmin.notion.site/Chapter-12-240357c44e5680dfad22d41a5e0bc91a?source=copy_link)
+
 
 # "도메인 주도 설계 첫걸음"
 
