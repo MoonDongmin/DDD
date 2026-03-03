@@ -1,5 +1,7 @@
 # DDD
+
 # "도메인 주도 설계"
+
 [Chapter 01. 지식 탐구](https://moondongmin.notion.site/Chapter-01-1e4357c44e5680bf95e9ed42e975114a?pvs=4)
 
 [Chapter 02. 의사소통과 언어 사용](https://moondongmin.notion.site/Chapter-02-1e5357c44e5680f38695f5de9156f95f?pvs=4)
@@ -33,6 +35,8 @@
 [Chapter 16. 대규모 구조](https://moondongmin.notion.site/Chapter-16-264357c44e568036ac11f511239726f2?source=copy_link)
 
 
+</br>
+
 # "도메인 주도 설계 첫걸음"
 
 ![img.png](img.png)
@@ -60,6 +64,7 @@
 [Chapter 09. 커뮤니케이션 패턴](https://moondongmin.notion.site/Chapter-09-1c1357c44e568018a301c523aa7dd4fd?pvs=4)
 
 ## Part 3. 도메인 주도 설계 적용 실무
+
 [Chapter 10. 휴리스틱 설계](https://moondongmin.notion.site/Chapter-10-1c8357c44e568089bff1e400d338d4da?pvs=4)
 
 [Chapter 11. 진화하는 설계 의사결정](https://moondongmin.notion.site/Chapter-11-1c9357c44e568047a843d0f07cbd0359?pvs=4)
@@ -69,3 +74,13 @@
 [Chapter 13. 실무에서의 도메인 주도 설계](https://moondongmin.notion.site/Chapter-13-1d0357c44e56808695f1ce555e09ff7f?pvs=4)
 
 [Chapter 16. 데이터 메시](https://moondongmin.notion.site/Chapter-16-1d6357c44e5680eca10dd7043277a2e8?pvs=4)
+
+</br>
+
+# 모던 API 아키텍처 설계 전략
+[0장. API 아키텍처 설계 여정을 시작하며](https://moondongmin.notion.site/0-API-30b357c44e56801f884bcce6eaad2511?source=copy_link)
+
+## 1부 API 설계부터 구현, 테스트까지
+[1장. API 설계, 구현, 명세](https://moondongmin.notion.site/1-API-30c357c44e5680d3bc8ce578f160e3cb?source=copy_link)
+
+[2장. API 테스트](https://moondongmin.notion.site/2-API-318357c44e56807395ded0adea0c8fc2?source=copy_link)
