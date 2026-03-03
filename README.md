@@ -34,7 +34,6 @@
 
 [Chapter 16. 대규모 구조](https://moondongmin.notion.site/Chapter-16-264357c44e568036ac11f511239726f2?source=copy_link)
 
-
 </br>
 
 # "도메인 주도 설계 첫걸음"
@@ -78,9 +77,14 @@
 </br>
 
 # 모던 API 아키텍처 설계 전략
+
+![img2.png](img2.png)
+
+
 [0장. API 아키텍처 설계 여정을 시작하며](https://moondongmin.notion.site/0-API-30b357c44e56801f884bcce6eaad2511?source=copy_link)
 
 ## 1부 API 설계부터 구현, 테스트까지
+
 [1장. API 설계, 구현, 명세](https://moondongmin.notion.site/1-API-30c357c44e5680d3bc8ce578f160e3cb?source=copy_link)
 
 [2장. API 테스트](https://moondongmin.notion.site/2-API-318357c44e56807395ded0adea0c8fc2?source=copy_link)
