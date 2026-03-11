@@ -88,3 +88,6 @@
 [1장. API 설계, 구현, 명세](https://moondongmin.notion.site/1-API-30c357c44e5680d3bc8ce578f160e3cb?source=copy_link)
 
 [2장. API 테스트](https://moondongmin.notion.site/2-API-318357c44e56807395ded0adea0c8fc2?source=copy_link)
+
+## 2부 API 트래픽 관리
+[3장. API 게이트웨이: 인그레스 트래픽 관리](https://moondongmin.notion.site/3-API-31f357c44e56809cbbbdcff9c90bf30e?source=copy_link)
