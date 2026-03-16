@@ -80,7 +80,6 @@
 
 ![img2.png](img2.png)
 
-
 [0장. API 아키텍처 설계 여정을 시작하며](https://moondongmin.notion.site/0-API-30b357c44e56801f884bcce6eaad2511?source=copy_link)
 
 ## 1부 API 설계부터 구현, 테스트까지
@@ -90,4 +89,7 @@
 [2장. API 테스트](https://moondongmin.notion.site/2-API-318357c44e56807395ded0adea0c8fc2?source=copy_link)
 
 ## 2부 API 트래픽 관리
+
 [3장. API 게이트웨이: 인그레스 트래픽 관리](https://moondongmin.notion.site/3-API-31f357c44e56809cbbbdcff9c90bf30e?source=copy_link)
+
+[4장. 서비스 메시: 서비스 간 트래픽 관리](https://moondongmin.notion.site/4-323357c44e5680e48bb2cfcea0a9d09a?source=copy_link)
