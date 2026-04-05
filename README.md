@@ -93,3 +93,5 @@
 [3장. API 게이트웨이: 인그레스 트래픽 관리](https://moondongmin.notion.site/3-API-31f357c44e56809cbbbdcff9c90bf30e?source=copy_link)
 
 [4장. 서비스 메시: 서비스 간 트래픽 관리](https://moondongmin.notion.site/4-323357c44e5680e48bb2cfcea0a9d09a?source=copy_link)
+
+[5장. API의 배포와 릴리스](https://moondongmin.notion.site/5-API-32d357c44e5680f8a7ffc217657ad804?source=copy_link)
