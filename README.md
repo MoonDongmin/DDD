@@ -34,7 +34,7 @@
 
 [Chapter 16. 대규모 구조](https://moondongmin.notion.site/Chapter-16-264357c44e568036ac11f511239726f2?source=copy_link)
 
-</br>
+<br>
 
 # "도메인 주도 설계 첫걸음"
 
@@ -95,3 +95,7 @@
 [4장. 서비스 메시: 서비스 간 트래픽 관리](https://moondongmin.notion.site/4-323357c44e5680e48bb2cfcea0a9d09a?source=copy_link)
 
 [5장. API의 배포와 릴리스](https://moondongmin.notion.site/5-API-32d357c44e5680f8a7ffc217657ad804?source=copy_link)
+
+[6장. 운영 보안: API의 위협 모델](https://moondongmin.notion.site/6-API-335357c44e5680368431f544db1c28fd?source=copy_link)
+
+[7장. API의 인증과 인가](https://moondongmin.notion.site/7-API-33b357c44e56804499d2facca04b9c64?source=copy_link)
