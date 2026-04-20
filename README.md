@@ -103,3 +103,5 @@
 [8장. API 주도 아키텍처로의 재설계](https://moondongmin.notion.site/8-API-33e357c44e5680fcbbded6aeafe31bb2?source=copy_link)
 
 [9장. 클라우드 플랫폼으로의 진화](https://moondongmin.notion.site/9-347357c44e56800b8149c93fb1330fae?source=copy_link)
+
+[10장. 지속적인 아키텍처 진화를 위해](https://moondongmin.notion.site/10-348357c44e56806ea69aca7334cd849d?source=copy_link)
