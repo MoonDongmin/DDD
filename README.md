@@ -99,3 +99,7 @@
 [6장. 운영 보안: API의 위협 모델](https://moondongmin.notion.site/6-API-335357c44e5680368431f544db1c28fd?source=copy_link)
 
 [7장. API의 인증과 인가](https://moondongmin.notion.site/7-API-33b357c44e56804499d2facca04b9c64?source=copy_link)
+
+[8장. API 주도 아키텍처로의 재설계](https://moondongmin.notion.site/8-API-33e357c44e5680fcbbded6aeafe31bb2?source=copy_link)
+
+[9장. 클라우드 플랫폼으로의 진화](https://moondongmin.notion.site/9-347357c44e56800b8149c93fb1330fae?source=copy_link)
