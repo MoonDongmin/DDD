@@ -1,5 +1,12 @@
 # DDD
 
+# "도메인 주도 설계를 위한 함수형 프로그래밍”
+[Chapter01. DDD 소개](https://moondongmin.notion.site/Chapter01-DDD-34e357c44e5680b9a309dd62b8b58949?source=copy_link)
+
+[Chapter 2. 도메인 이해하기](https://moondongmin.notion.site/Chapter-2-34f357c44e568048adc7f0b14a6b8d55?source=copy_link)
+
+
+
 # "도메인 주도 설계"
 
 [Chapter 01. 지식 탐구](https://moondongmin.notion.site/Chapter-01-1e4357c44e5680bf95e9ed42e975114a?pvs=4)
