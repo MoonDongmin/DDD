@@ -5,6 +5,8 @@
 
 [Chapter 2. 도메인 이해하기](https://moondongmin.notion.site/Chapter-2-34f357c44e568048adc7f0b14a6b8d55?source=copy_link)
 
+[Chapter 03. 함수형 아키텍처](https://moondongmin.notion.site/Chapter-03-358357c44e5680c788c7de247a98deea?source=copy_link)
+
 
 
 # "도메인 주도 설계"
