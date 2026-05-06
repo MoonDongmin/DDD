@@ -7,7 +7,7 @@
 
 [Chapter 03. 함수형 아키텍처](https://moondongmin.notion.site/Chapter-03-358357c44e5680c788c7de247a98deea?source=copy_link)
 
-
+[Chapter 04. 타입 이해하기](https://moondongmin.notion.site/Chapter-04-358357c44e56802a8f7ec71721f081f7?source=copy_link)
 
 # "도메인 주도 설계"
 

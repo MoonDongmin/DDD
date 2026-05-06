@@ -1,0 +1,1 @@
+type ProductCode = {readonly value: string} & {"ProductCode": never};
