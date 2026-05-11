@@ -9,6 +9,8 @@
 
 [Chapter 04. 타입 이해하기](https://moondongmin.notion.site/Chapter-04-358357c44e56802a8f7ec71721f081f7?source=copy_link)
 
+[Chapter 05. 타입으로 도메인 모델링하기](https://moondongmin.notion.site/Chapter-05-35b357c44e5680e7a8b2d582e9df0eca?source=copy_link)
+
 # "도메인 주도 설계"
 
 [Chapter 01. 지식 탐구](https://moondongmin.notion.site/Chapter-01-1e4357c44e5680bf95e9ed42e975114a?pvs=4)
