@@ -1,0 +1,1 @@
+type OrderTakingCommand = PlaceOrder | ChangeOrder | CancelOrder;

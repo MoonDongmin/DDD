@@ -13,6 +13,8 @@
 
 [Chapter 06. 도메인의 무결성과 일관성](https://moondongmin.notion.site/Chapter-06-360357c44e5680b2af4edc44c5ddaaf9?source=copy_link)
 
+[Chapter 07. 파이프라인으로 작업 흐름 모델링하기](https://moondongmin.notion.site/Chapter-07-36b357c44e568031b0f9e5f6dac6c2f2?source=copy_link)
+
 # "도메인 주도 설계"
 
 [Chapter 01. 지식 탐구](https://moondongmin.notion.site/Chapter-01-1e4357c44e5680bf95e9ed42e975114a?pvs=4)
