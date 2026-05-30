@@ -15,6 +15,8 @@
 
 [Chapter 07. 파이프라인으로 작업 흐름 모델링하기](https://moondongmin.notion.site/Chapter-07-36b357c44e568031b0f9e5f6dac6c2f2?source=copy_link)
 
+[Chapter 08. 함수 이해하기](https://moondongmin.notion.site/Chapter-08-370357c44e5680fcb1b5c7b006cde5ae?source=copy_link)
+
 # "도메인 주도 설계"
 
 [Chapter 01. 지식 탐구](https://moondongmin.notion.site/Chapter-01-1e4357c44e5680bf95e9ed42e975114a?pvs=4)

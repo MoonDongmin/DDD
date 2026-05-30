@@ -1,4 +1,5 @@
 import type { Either } from "fp-ts/lib/Either";
+import type { Task } from "fp-ts/lib/Task";
 
 type CheckProductCodeExists = (i: ProductCode) => boolean;
 
