@@ -17,6 +17,8 @@
 
 [Chapter 08. 함수 이해하기](https://moondongmin.notion.site/Chapter-08-370357c44e5680fcb1b5c7b006cde5ae?source=copy_link)
 
+[Chapter 09. 구현: 파이프라인 조합하기](https://moondongmin.notion.site/Chapter-09-371357c44e56802c994cf3952d2c88ea?source=copy_link)
+
 # "도메인 주도 설계"
 
 [Chapter 01. 지식 탐구](https://moondongmin.notion.site/Chapter-01-1e4357c44e5680bf95e9ed42e975114a?pvs=4)
