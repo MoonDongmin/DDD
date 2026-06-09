@@ -19,6 +19,8 @@
 
 [Chapter 09. 구현: 파이프라인 조합하기](https://moondongmin.notion.site/Chapter-09-371357c44e56802c994cf3952d2c88ea?source=copy_link)
 
+[Chapter 10. 구현: 오류 처리하기](https://moondongmin.notion.site/Chapter-10-379357c44e5680efa162d88e1bd396d5?source=copy_link)
+
 # "도메인 주도 설계"
 
 [Chapter 01. 지식 탐구](https://moondongmin.notion.site/Chapter-01-1e4357c44e5680bf95e9ed42e975114a?pvs=4)
