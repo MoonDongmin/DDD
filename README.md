@@ -23,6 +23,8 @@
 
 [Chapter 11. 직렬화](https://moondongmin.notion.site/Chapter-11-37f357c44e5680f48428c23444fa9582?source=copy_link)
 
+[Chapter 12. 영속화](https://moondongmin.notion.site/Chapter-12-387357c44e568045bc75e888b2c3dde5?source=copy_link)
+
 # "도메인 주도 설계"
 
 [Chapter 01. 지식 탐구](https://moondongmin.notion.site/Chapter-01-1e4357c44e5680bf95e9ed42e975114a?pvs=4)
