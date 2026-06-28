@@ -25,6 +25,8 @@
 
 [Chapter 12. 영속화](https://moondongmin.notion.site/Chapter-12-387357c44e568045bc75e888b2c3dde5?source=copy_link)
 
+[Chapter 13. 깔끔하게 디자인 발전시키기](https://moondongmin.notion.site/Chapter-13-38c357c44e568008b18cd6d315909c33?source=copy_link)
+
 # "도메인 주도 설계"
 
 [Chapter 01. 지식 탐구](https://moondongmin.notion.site/Chapter-01-1e4357c44e5680bf95e9ed42e975114a?pvs=4)
